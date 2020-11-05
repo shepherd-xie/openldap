@@ -1,0 +1,14 @@
+dn: cn=Administrator,ou=Groups,dc=orkva,dc=com
+objectClass: groupOfUniqueNames
+cn: Administrator
+uniqueMember: uid=shepherd.xie@orkva.com,ou=people,dc=orkva,dc=com
+
+dn: cn=Manager,ou=Groups,dc=orkva,dc=com
+objectClass: groupOfUniqueNames
+cn: Manager
+uniqueMember: uid=yuxiao.wang@orkva.com,ou=people,dc=orkva,dc=com
+
+dn: cn=Employee,ou=Groups,dc=orkva,dc=com
+objectClass: groupOfUniqueNames
+cn: Employee
+uniqueMember: uid=guangyuan.li@orkva.com,ou=people,dc=orkva,dc=com

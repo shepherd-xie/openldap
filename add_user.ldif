@@ -1,0 +1,53 @@
+dn: uid=shepherd.xie@orkva.com,ou=people,dc=orkva,dc=com
+cn: Shepherd Xie
+givenName: Shepherd
+sn: Xie
+uid: shepherd.xie@orkva.com
+uidNumber: 5000
+gidNumber: 10000
+homeDirectory: /home/john
+mail: shepherd.xie@orkva.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+loginShell: /bin/bash
+userPassword: {SHA}fCIvspJ9goryL1khNOiTJIBjfA0=
+
+dn: uid=guangyuan.li@orkva.com,ou=people,dc=orkva,dc=com
+cn: GuangYuan Li
+givenName: GuangYuan
+sn: Li
+uid: guangyuan.li@orkva.com
+uidNumber: 5001
+gidNumber: 10000
+homeDirectory: /home/john
+mail: guangyuan.li@orkva.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+loginShell: /bin/bash
+userPassword: {SHA}fCIvspJ9goryL1khNOiTJIBjfA0=
+
+dn: uid=yuxiao.wang@orkva.com,ou=people,dc=orkva,dc=com
+cn: YuXiao Wang
+givenName: YuXiao
+sn: Wang
+uid: yuxiao.wang@orkva.com
+uidNumber: 5002
+gidNumber: 10000
+homeDirectory: /home/john
+mail: yuxiao.wang@orkva.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+loginShell: /bin/bash
+userPassword: {SHA}fCIvspJ9goryL1khNOiTJIBjfA0=
